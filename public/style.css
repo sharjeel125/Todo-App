@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+  
+    
+}
+
+
+h1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+#main{
+    text-align: center;
+   
+}
+
+#deleteAll{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+#list{
+    text-align: center;
+    list-style: none;
+    
+}
+.ul{
+    text-decoration: none;
+    text-align: center;
+}
